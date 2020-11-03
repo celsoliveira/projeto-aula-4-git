@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oi!
+=======
+tchau
+>>>>>>> f8d3ac4faf14e51b0b51af4dfcce7445a804115e
